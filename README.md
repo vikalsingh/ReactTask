@@ -1,5 +1,9 @@
 # ReactProject
 
+# How to install
+1. Clone code in our local repo
+2. npm install
+3. npm run start
 
 # Parcel
 - Dev Build
